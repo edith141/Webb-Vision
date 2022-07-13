@@ -1,7 +1,7 @@
 # Webb Vision
 Comparision of the images from the James Webb Space Telescope compared to that of Hubble's.
 
-[Find out!](https://github.com/edith141/Webb-Vision)
+[Find out!](https://edith141.github.io/projects/webbVision/)
 ![](img/Southern_Ring_Nebula_Webb_Compare.gif)
 
 
